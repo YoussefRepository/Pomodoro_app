@@ -1,0 +1,22 @@
+/* Start Variables */
+
+/* Media */
+$media-width: (
+  mobile: "768px",
+  medium: "992px",
+  large: "1200px"
+);
+
+/* Color */
+$color: (
+  background: hsl(235, 35%, 19%),
+  active: hsl(358, 78%, 69%),
+  text: hsl(0, 0%, 100%, 0.902),
+  shadow: hsl(235, 36%, 35%),
+);
+
+/* Font */
+$font-name: 'Open Sans', sans-serif;
+
+
+/* End Variables */

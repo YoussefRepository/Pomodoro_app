@@ -1,0 +1,20 @@
+/* Start Variables */
+/* Media */
+/* Color */
+/* Font */
+/* End Variables */
+/* Mixin For Adding Prefixis To Proparty */
+/* Mixin For Media Queries */
+/* Function To Convert From Px To Rem */
+/* Start Reset */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* End Reset *//*# sourceMappingURL=main.css.map */
